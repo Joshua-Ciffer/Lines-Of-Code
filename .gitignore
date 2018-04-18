@@ -8,14 +8,3 @@
 /.classpath
 *.class
 hs_err_pid*
-
-# Python
-/.pydevproject
-__pycache__/
-*.py[cod]
-*$py.class
-
-# C++
-/.cproject
-*.exe
-*.o
